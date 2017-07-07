@@ -1,0 +1,8 @@
+/var/host/media/removable/KIRKMAN/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.deps.json
+/var/host/media/removable/KIRKMAN/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.json
+/var/host/media/removable/KIRKMAN/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.dev.json
+/var/host/media/removable/KIRKMAN/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.dll
+/var/host/media/removable/KIRKMAN/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.pdb
+/var/host/media/removable/KIRKMAN/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.AssemblyInfo.cs
+/var/host/media/removable/KIRKMAN/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.dll
+/var/host/media/removable/KIRKMAN/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.pdb
